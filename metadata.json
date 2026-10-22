@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Traffic Signal Optimizer",
+  "description": "Academic traffic signal optimization platform with machine learning traffic prediction, FIFO queues, Priority Queue scheduling, and interactive 4-way intersection simulation comparing adaptive vs. fixed-time control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
